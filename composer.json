@@ -1,14 +1,13 @@
 {
-    "name": "dpdconnect/woocommerce-shipping",
-    "description": "DPD WooCommerce shipping extension",
-    "license": "GPL-3.0-or-later",
-    "minimum-stability": "dev",
-    "require": {
-	"dpdconnect/php-sdk": "dev-master"
-    },
-    "autoload": {
-	"psr-4": {
-	    "DpdConnect\\classes\\": ["classes"]
-	}
-    }
+	"name": "tombroucke/woocommerce-shipping",
+	"description": "",
+	"keywords": ["wordpress", "plugin"],
+	"homepage": "https://github.com/tombroucke/woocommerce-shipping",
+	"authors": [
+		{
+			"name": "DPD",
+			"homepage": "https://github.com/dpdconnect/woocommerce-shipping"
+		}
+	],
+	"type": "wordpress-plugin"
 }
